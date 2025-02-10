@@ -1,8 +1,11 @@
 # 🚀 Banking Management System in C++
 
+
+
 🔹 Overview
 
 A simple banking system in C++ that allows users to manage accounts, deposit/withdraw money, and search for accounts. Fully compatible with Visual Studio, GCC, and Clang.
+
 
 
 
@@ -20,9 +23,12 @@ A simple banking system in C++ that allows users to manage accounts, deposit/wit
 
 
 
+
 🔹 How to Use
 
  Compile & Run the program in Visual Studio or GCC
+
+ 
 
 Choose from the menu:
 
