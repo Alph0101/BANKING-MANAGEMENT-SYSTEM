@@ -12,9 +12,9 @@ public:
     void OpenAccount() {
         cout << "Enter Account Number: ";
         cin >> acno;
-        cin.ignore(); // To prevent newline issues with getline
+        cin.ignore(); 
         cout << "Enter Name: ";
-        getline(cin, name); // Allows spaces in names
+        getline(cin, name);
         cout << "Enter Initial Balance: ";
         cin >> balance;
     }
