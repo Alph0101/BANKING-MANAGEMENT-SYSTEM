@@ -48,8 +48,8 @@ Choose from the menu:
 
 💻 GCC:
 
- g++ banking_system.cpp -o banking_system
- ./banking_system
+g++ banking.cpp -o banking
+ ./banking
 
 💻 Visual Studio:
 
