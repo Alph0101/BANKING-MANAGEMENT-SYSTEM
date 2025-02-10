@@ -22,9 +22,9 @@ A simple banking system in C++ that allows users to manage accounts, deposit/wit
 
 🔹 How to Use
 
-1️⃣ Compile & Run the program in Visual Studio or GCC
+ Compile & Run the program in Visual Studio or GCC
 
-2️⃣ Choose from the menu:
+Choose from the menu:
 
 1️⃣ Display All Accounts
 
