@@ -6,11 +6,20 @@ A simple banking system in C++ that allows users to manage accounts, deposit/wit
 
 🔹 Features
 
-✔️ Create & manage multiple accounts (default: 3)✔️ Deposit & withdraw money (balance checks included)✔️ Search accounts by number✔️ Display all account details✔️ User-friendly menu-based interface
+✔️ Create & manage multiple accounts (default: 3)
+
+✔️ Deposit & withdraw money (balance checks included)
+
+✔️ Search accounts by number
+
+✔️ Display all account details
+
+✔️ User-friendly menu-based interface
 
 🔹 How to Use
 
 1️⃣ Compile & Run the program in Visual Studio or GCC
+
 2️⃣ Choose from the menu:
 
 1️⃣ Display All Accounts
